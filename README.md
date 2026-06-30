@@ -41,3 +41,5 @@ git branch -M main
 git remote add origin https://github.com/psilara/pablo-portfolio.git
 git push -u origin main
 ```
+
+Puedes publicarlo gratis con GitHub Pages, Netlify o Vercel.
