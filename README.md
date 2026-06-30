@@ -29,4 +29,4 @@ La web final quedará en la carpeta `dist`.
 - Textos, experiencia, formación y proyectos: `index.html`
 - Colores, diseño y responsive: `styles.css`
 - Menú móvil, animaciones y botón de copiar email: `script.js`
-- Foto y CV: carpeta `assets/`
+- Foto y CV: carpeta `assets/` .
